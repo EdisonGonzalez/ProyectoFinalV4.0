@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Bottom_cine1"
+        android:icon="@drawable/icono_cine1"
+        android:title="Cine N1" />
+
+    <item
+        android:id="@+id/Bottom_cine2"
+        android:icon="@drawable/icono_cine2"
+        android:title="Cine N2" />
+    <item
+        android:id="@+id/Bottom_cine3"
+        android:icon="@drawable/icono_cine3"
+        android:title="Cine N3" />
+
+</menu>

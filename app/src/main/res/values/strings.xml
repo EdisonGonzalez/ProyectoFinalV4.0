@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Cine App</string>
+    <string name="facebook_app_id">174040239811777</string>
+    <string name="fb_login_protocol_scheme">fb174040239811777</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_base_drawer">CineApp</string>
+    <string name="title_registrarse">Registrarse</string>
+    <string name="title_login">Login</string>
+    <string name="title_cartelera">Cartelera</string>
+    <string name="title_cines">Cines</string>
+    <string name="title_confiteria">Confiteria</string>
+    <string name="title_perfil">Perfil</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_perfil2">Perfil2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+    <string name="descripcion_spiderman">Peter Parker trata de equilibrar su vida como un estudiante regular de secundaria con su alter ego, el superhéroe Spider-Man. Debe enfrentar a una nueva amenaza que ronda los cielos de la ciudad de Nueva York.</string>
+    <string name="descripcion_transformers">Los Autobots y los Decepticons están en guerra, con los humanos al margen. Optimus Prime ya no está. La clave para salvar nuestro futuro yace en los secretos del pasado, en la historia oculta de los Transformers en la Tierra.</string>
+    <string name="descripcion_piratas">El temible capitán Salazar consiguió escapar del Triángulo del Diablo con la determinación de acabar con el capitán Jack Sparrow. Ahora Jack debe buscar el tridente de Poseidón mientras es cazado por un capitán no muerto y su tripulación.</string>
+    <string name="descripcion_maravilla">Diana, princesa y guerrera amazona criada en una isla, se entera de un gran conflicto en el mundo exterior cuando un piloto se estrella en la costa. Entonces ella deja su hogar para luchar en la guerra, descubriendo sus poderes y su destino.</string>
+    <string name="descripcion_momia">En una profunda tumba debajo del abrasador desierto una antigua princesa es despertada, trayendo toda la maldad y el terror que fueron creciendo durante los milenios y que desafían toda comprensión humana.</string>
+    <string name="descripcion_rey_arturo">Robado de su derecho de nacimiento, Arturo surge de la manera difícil en los callejones de la ciudad. Pero una vez que arranca la espada de la piedra, se ve forzado a reconocer su verdadero legado, quiera o no quiera.</string>
+
+
+    <string name="descripcion_naked">Nervioso porque al fin está a punto de casarse, Rob debe volver a vivir las mismas agitadas horas una y otra vez hasta que logre hacer bien las cosas en el día de su boda.</string>
+    <string name="descripcion_pelea_maestros">Cuando un profesor de escuela, sin que sea su intención, causa el despido de otro maestro, es retado a una pelea después de la salida de clases.</string>
+    <string name="descripcion_patrulla_motos">Un oficial novato es emparejado con un veterano en la Patrulla Carretera de California, aunque pronto el novato descubre que su compañero es en realidad un agente encubierto del FBI investigando un asalto que involucra algunos policías corruptos.</string>
+    <string name="descripcion_porque_el">Una reunión familiar durante las fiestas está a punto de salirse de control cuando Ned, un padre sobreprotector, se entera que el excéntrico novio millonario de su hija está a punto de pedir matrimonio.</string>
+
+    <string name="descripcion_anabellle2"> doce años después de la trágica muerte de su hija, un fabricante de muñecas y su esposa reciben en su casa a una monja y varias niñas de un orfanato, donde pronto se convierten en el blanco de una de las creaciones del fabricante: Annabelle.</string>
+    <string name="descripcion_muñeca_budu">Luego de la caza de un asesino en serie, una antigua maldición consume a una ciudad, causando una serie de asesinatos brutales y poniendo a un detective contra reloj para salvar la vida de su hija.</string>
+    <string name="descripcion_el_aro3">Julia se preocupa por su novio, Holt, cuando él investiga la oscura leyenda urbana de un misterioso video que supuestamente mata a quien lo mira siete días después de ser visto.</string>
+    <string name="descripcion_la_morgue">Padre e hijo, ambos forenses, reciben una misteriosa víctima de homicidio sin ninguna causa aparente de muerte. Al intentar identificar a la bella joven, descubren pistas cada vez más extrañas de sus aterrorizantes secretos.</string>
+
+    <string name="descripcion_entre_gerra_y_amor">Una bella enfermera, cansada de las injusticias en su país, viaja al Imperio Otomano en una remota misión médica justo antes de lo que será la Primera Guerra Mundial. Ahí encuentra su lealtad puesta a prueba cuando se enamora de un teniente del Ejército Imperial Otomano.</string>
+    <string name="descripcion_kinds_in_love">A la deriva durante su año sabático con pasantías y planes de viaje, Jack siempre sospechó que hay más en la vida que esto. Un encuentro casual con la hermosa y etérea Evelyn y sus amigos, incluída Viola de espíritu libre, lleva a su vida radicalmente fuera de curso.</string>
+    <string name="descripcion_50sombras_oscuras">Christian y Anastasia deciden intentarlo de nuevo, pero el pasado de Christian atormenta a Ana mientras él lucha con sus demonios internos. Adaptación de la novela del mismo nombre de E. L. James.</string>
+    <string name="descripcion_la_bella_y_bestia">Un joven príncipe, encerrado en la forma de una bestia, sólo puede ser liberado con amorverdadero. Lo que puede ser su única oportunidad se presenta con Bella, una joven que llega a su castillo encantado.</string>
+
+    <string name="cine_uno">Cine N Florida \n Dir: Cll 29a #102a-29  \n horario: 8AM - 12PM</string>
+    <string name="cine_dos">Cine N Poblado \n Dir: Cll 19a #10C-29  \n horario: 8AM - 12PM</string>
+    <string name="cine_tres">Cine N Puerta del Norte \n Dir: Av 21b #51a-80  \n horario: 8AM - 12PM</string>
+    <string name="cine_cuatro">Cine N Molinos \n Dir: Cra 32a #82-48  \n horario: 8AM - 12PM</string>
+
+    <string name="combo1">1 Maíz 150 Oz. + 1 Gaseosas de 16 Oz. + 1 perro caliente \n $17.400 </string>
+    <string name="combo4">Combo 50 sombras de grey: 1 Maíz 150 Oz. + 1 Gaseosas de 16 Oz. + 1 juguete sorpresa adicional\n $30.000 </string>
+    <string name="combo2">1 Maíz 200 Oz. + 2 Gaseosas de 32 Oz. \n $19.800 </string>
+    <string name="combo3">1 Maíz 170 Oz. + 2 Gaseosas de 22 Oz. + 2 perros calientes + 2 chocolatinas (snickers)\n $26.600 </string>
+
+
+
+</resources>

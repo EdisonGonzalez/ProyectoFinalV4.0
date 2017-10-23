@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/opcion_cartelera"
+            android:icon="@drawable/icono_cartelera"
+            android:title="Cartelera" />
+        <item
+            android:id="@+id/opcion_cines"
+            android:icon="@drawable/icono_cines"
+            android:title="Cines" />
+        <item
+            android:id="@+id/opcion_confiteria"
+            android:icon="@drawable/icono_confiteria"
+            android:title="Confiteria" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/opcion_perfil"
+                android:icon="@drawable/icono_perfil"
+                android:title="Perfil" />
+            <item
+                android:id="@+id/opcion_cerrar_sesion"
+                android:icon="@drawable/icono_cerrar_sesion"
+                android:title="Cerrar Sesión" />
+        </menu>
+    </item>
+
+</menu>
